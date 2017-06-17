@@ -1,11 +1,11 @@
 # arduino
 My public codes, which are written for arduino projects.
 
-**Communication
+**Communication**
 _____________
 nRF24L01
 
-**Sensors
+**Sensors**
 _____________
 DHT11
 LDR

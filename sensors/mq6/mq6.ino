@@ -9,8 +9,8 @@
  * on serial monitor. You need to be sure of it's source. Don't forget to test MQ6 with some
  * gas source. It can even be your breath. 
  * 
- * @author Çağatay Tanyıldız
- * @email  cagataytanyildiz[at]protonmail[dot]com
+ * @author Cagatay Tanyildiz
+ * @email  cagta[at]pm[dot]me
 */
 const int analogInPin = A0;             
 int data = 0;   

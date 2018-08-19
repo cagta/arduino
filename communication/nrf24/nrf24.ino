@@ -3,8 +3,8 @@
  * Wiring diagram of nRF24L01 = http://starter-kit.nettigo.eu/wp-content/uploads/2014/12/nrf-ardino-en.png
  * Library source of nRF24L01 = https://tmrh20.github.io/RF24/
  * 
- * @author Çağatay Tanyıldız
- * @email  cagataytanyildiz[at]protonmail[dot]com
+ * @author Cagatay Tanyildiz
+ * @email  cagta[at]pm[dot]me
 */
 #include <SPI.h>
 #include <nRF24L01.h>

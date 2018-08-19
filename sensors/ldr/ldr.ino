@@ -6,8 +6,8 @@
  * on serial monitor. You need to be sure of it's source. Don't forget to test LDR with some
  * light source.
  * 
- * @author Çağatay Tanyıldız
- * @email  cagataytanyildiz[at]protonmail[dot]com
+ * @author Cagatay Tanyildiz
+ * @email  cagta[at]pm[dot]me
 */
 #define LDR_PIN A0
 

@@ -1,5 +1,5 @@
 # arduino
-My public codes, which are written for arduino projects.
+In this repo, I'll collect my arduino code snippets.
 
 **Communication**
 _____________

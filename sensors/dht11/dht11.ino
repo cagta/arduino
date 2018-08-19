@@ -3,8 +3,8 @@
  * Wiring diagram of DHT11 = http://www.hobbyist.co.nz/sites/default/files/Arduino_Sensor_interface.png
  * Library source of DHT11 = https://github.com/adafruit/DHT-sensor-library
  * 
- * @author Çağatay Tanyıldız
- * @email  cagataytanyildiz[at]protonmail[dot]com
+ * @author Cagatay Tanyildiz
+ * @email  cagta[at]pm[dot]me
 */
 #include "DHT.h"        
 #define DHT_PIN A0
